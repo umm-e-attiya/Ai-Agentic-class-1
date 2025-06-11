@@ -1,7 +1,7 @@
-# Project Overview
+# 🧠Project Overview
 This project demonstrates how to build an instruction-based AI agent using Gemini API (OpenAI-compatible) with Python. It includes secure API management using .env, dependency management with UV, and integration of the openai-agents package to build custom agent behavior.
 
-# Features
+# 🚀Features
 🔐 API key stored securely using .env
 
 ⚙️ Dependency management with UV
@@ -12,7 +12,7 @@ This project demonstrates how to build an instruction-based AI agent using Gemin
 
 🛡️ .env added to .gitignore to prevent exposure
 
-# Requirements
+# 📦Requirements
 Python 3.8+
 
 UV package manager
